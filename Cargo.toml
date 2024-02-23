@@ -1,0 +1,9 @@
+[package]
+name = "impl-error-message"
+version = "0.1.0"
+edition = "2021"
+
+[features]
+bad_error = []
+better_error = []
+good_error = []
